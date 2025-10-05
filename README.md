@@ -134,4 +134,8 @@ MIT License
 
 ## 👥 Author
 
-Advanced Hand Control System - 2024
+**Name**: @thunderidea and @ritesh-amadiya
+**Github**: https://github.com/thunderidea/HandMouseGesture
+**Email**: prokratos04@gmail.com
+
+Advanced Hand+Voice Control System - 2025
